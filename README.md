@@ -1,5 +1,5 @@
-# Hi, I'm Zé! 🦧 
-#### 📍 I'm from the beautiful city of Barcelos, Braga.
+# Hi, I'm Bernard! 🦆 
+#### 📍 I was born and raise in Brazil but I now live in the beautiful city of Braga
 #### 🎓 Currently, I'm studying Software Engineering @ <a href="https://www.uminho.pt/EN">University of Minho</a>.
 
 My github is mainly for college projects and side-projects. Hope you find something useful.
@@ -23,5 +23,5 @@ My github is mainly for college projects and side-projects. Hope you find someth
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ###
-![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=josefonte&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josefonte&layout=compact&theme=dark)
+![Bernard's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardGeorges&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardGeorges&layout=compact&theme=dark)
