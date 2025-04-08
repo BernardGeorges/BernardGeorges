@@ -55,8 +55,8 @@ My github is mainly for college projects and side-projects. Hope you find someth
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
 
 ### Socials
-[![Gmail](https://img.shields.io/badge/josebfonte-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josebfonte@gmail.com)
-[![Linkedin](https://img.shields.io/badge/JoséPedroFonte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-pedro-fonte/)
+[![Gmail](https://img.shields.io/badge/BernardGeorges-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernard.georges2002@gmail.com)
+[![Linkedin](https://img.shields.io/badge/BernardGeorges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jose-pedro-fonte/](https://www.linkedin.com/in/bernard-georges-762325263/))
 
 ###
 ![Bernard's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardGeorges&show_icons=true&theme=dark)
